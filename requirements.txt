@@ -1,0 +1,16 @@
+langgraph
+langchain_google_genai
+langchain_groq
+langchain_core
+a2a_sdk
+uvicorn
+starlette
+sse-starlette
+dotenv
+langchain-classic
+langchain
+
+
+crewai[google-genai]
+google-adk 
+nest_asyncio
